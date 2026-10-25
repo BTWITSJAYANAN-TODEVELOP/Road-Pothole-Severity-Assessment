@@ -1,0 +1,5 @@
+,outlier_count,outlier_percent,lower_bound,upper_bound
+confidence,0,0.0,0.562,1.05
+bounding_box_area,0,0.0,-611.875,7915.125
+aspect_ratio,2,0.67,0.443,1.789
+peak_jerk,0,0.0,-1.871,12.439
